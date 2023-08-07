@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sulaemansantoso
 - 👀 I’m interested in Computer Graphics, Game programming, Game in General, Art in general, much more
-- 🌱 I’m currently learning Godot and ThreeJS
+- 🌱 I’m currently learning Godot, Unity, Flutter, Vue and ThreeJS
 - 💞️ I’m looking to collaborate on Game related project
 - 📫 How to reach me at https://beacons.ai/sulaemansantoso
 
